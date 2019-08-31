@@ -1,4 +1,5 @@
 require 'spec_helper'
+require "pry"
 
 describe FiguresController do
   before do
